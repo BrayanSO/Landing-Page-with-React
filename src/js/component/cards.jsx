@@ -4,8 +4,8 @@ import Card from 'react-bootstrap/Card';
 
 function Cards() {
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://picsum.photos/100/180" />
+    <Card style={{ width: '18rem'}}>
+      <Card.Img variant="top" src="https://picsum.photos/400/300" />
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
